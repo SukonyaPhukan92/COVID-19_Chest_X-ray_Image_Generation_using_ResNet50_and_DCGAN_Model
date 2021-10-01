@@ -56,7 +56,7 @@ The folder named ***3.Improvised DCGAN+ResNet50*** contains following contents
 * Trained the model with Segmented images of Covid-19 Chest X-ray using K-means clustering method as we achieved better accuracy with K-means Clustering method as compared to other merthods.
 * Some sample of generated images are shown below:
 
-<img src="2.%20Image%20Segmentation/Segmented_images.jpg" width="480" >
+<img src="3.%20Improvised%20DCGAN%2BResNet50/Generated%20images.jpeg" width="480" >
 
 ******
 # **Datasets:**
