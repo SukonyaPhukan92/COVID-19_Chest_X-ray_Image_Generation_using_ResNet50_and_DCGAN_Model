@@ -60,7 +60,7 @@ The folder named ***3.Improvised DCGAN+ResNet50*** contains following contents
 
 ******
 # **Datasets:**
-Dataset of each above mentioned codes are given below:
+Raw Covid-19 chest X-ray images are available in the given google drivelink provided below:
 
 #### 1. Raw Covid-19 Chest X-ray Images 
   
@@ -72,11 +72,3 @@ Dataset of each above mentioned codes are given below:
 
       https://drive.google.com/drive/folders/106uANtZvTQzx7SdBIASJuqq3TBT8iWy3?usp=sharing
     
-### 3. Covid-19 Chest X-ray Segmented Images
-#### 1. Using K-means Clustering
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-* Dataset Link:
-
-      https://drive.google.com/drive/folders/12NJwMYpFfKmyYTO5WzoHoX7iGaRSpx6E?usp=sharing
-      
-2. 
