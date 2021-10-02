@@ -58,7 +58,7 @@ In this work, all the experiments are implemented in python 3.6.9 using two pyth
 * Trained the model with Segmented images of Covid-19 Chest X-ray using K-means clustering method as we achieved better accuracy with K-means Clustering method as compared to other merthods.
 * Some sample of generated images are shown below:
 
-<img src="3.%20Improvised%20DCGAN%2BResNet50/Generated%20images.jpeg" width="480" >
+<img src="3.%20Improvised%20DCGAN%2BResNet50/Generated_images.png" width="480" >
 
 ******
 # **Datasets:**
