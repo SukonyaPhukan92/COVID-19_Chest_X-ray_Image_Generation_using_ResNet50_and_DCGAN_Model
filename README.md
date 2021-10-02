@@ -32,6 +32,8 @@ The folder named ***3.Improvised DCGAN+ResNet50*** contains following contents
 ******
 # **Experimental Details:**
 
+In this work, all the experiments are implemented in python 3.6.9 using two python frameworks, tensorflow 1.15.0 and keras 2.3.1. For the visualization of the image samples python library matplotlib 3.4.3 is used. Moreover, numpy 1.15 is used to perform the intermediate operations in the code implementation. Furthermore, cv2, PIL, glob, sklearn python packages are also used in the code implementation. Finally, the whole process is executed in Dell precision 7820 workstation configured with ubuntu 18.04 64 bit Operating System, Intel Xeon Gold 5215 2.5GHz processor, 96GB RAM, and Nvidia 16GB Quadro RTX5000 graphics. 
+
 ## **Step-3: Image Enhancement**
 * Image enhancement is performed to improve the quality and information content of original data before processing on Covid-19 Chest X-ray  raw grayscale images. Some sample images are shown below:
 <img src="1.%20Image%20Enhancement/covid19_chest_Xray_raw_grayscale_images.jpg" width="480" >
