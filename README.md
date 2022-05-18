@@ -5,7 +5,10 @@ This repository provides codes with datasets for the generation of synthesis ima
 
 Cite this paper
 Phukan, S., Singh, J., Gogoi, R., Dhar, S., Jana, N.D. (2022). COVID-19 Chest X-ray Image Generation Using ResNet-DCGAN Model. In: Mohanty, M.N., Das, S. (eds) Advances in Intelligent Computing and Communication. Lecture Notes in Networks and Systems, vol 430. Springer, Singapore. https://doi.org/10.1007/978-981-19-0825-5_24
-
+ 
+* Paper Link:
+      https://link.springer.com/chapter/10.1007/978-981-19-0825-5_24 
+ 
 # **Regarding contents of folders:**
 
 The folder named ***1. Image Enhancement*** contains following contents 
@@ -76,6 +79,5 @@ Raw Covid-19 chest X-ray images are available in the given google drivelink prov
 * Dataset Link:
 
       https://drive.google.com/drive/folders/106uANtZvTQzx7SdBIASJuqq3TBT8iWy3?usp=sharing
- To cite this work follow the paper link given below   
-* Paper Link:
-      https://link.springer.com/chapter/10.1007/978-981-19-0825-5_24
+  
+
