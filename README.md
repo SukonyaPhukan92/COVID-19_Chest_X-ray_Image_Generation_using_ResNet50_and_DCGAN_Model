@@ -73,6 +73,6 @@ Raw Covid-19 chest X-ray images are available in the given google drivelink prov
 * Dataset Link:
 
       https://drive.google.com/drive/folders/106uANtZvTQzx7SdBIASJuqq3TBT8iWy3?usp=sharing
-    
+ To cite this work follow the paper link given below   
 * Paper Link:
       https://link.springer.com/chapter/10.1007/978-981-19-0825-5_24
